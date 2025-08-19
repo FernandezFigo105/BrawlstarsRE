@@ -1,0 +1,19 @@
+names:
+  0: player
+  1: enemy
+  2: obstacle
+  6: grass
+  10: super
+  12: power_up
+  5: power_box
+  8: damage
+  9: damage_taken
+  7: cloud_region
+  13: Victory
+  14: Defeat
+  15: Kill
+  16: Loading
+  17: projectile
+  11: gadget
+path: .
+train: train.txt

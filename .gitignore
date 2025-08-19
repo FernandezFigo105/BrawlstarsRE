@@ -1,0 +1,16 @@
+# YOLO outputs
+runs/
+weights/
+*.pt
+*.onnx
+*.safetensors
+
+# Videos and screenshots
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# Logs
+*.log
+__pycache__/

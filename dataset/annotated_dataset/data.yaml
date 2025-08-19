@@ -1,0 +1,30 @@
+# Class definitions
+names:
+  0: player
+  1: enemy
+  2: obstacle
+  3: jump_pad
+  4: power_box
+  5: grass
+  6: cloud_region
+  7: damage
+  8: damage_taken
+  9: super
+  10: gadget
+  11: power_up
+  12: Victory
+  13: Defeat
+  14: Kill
+  15: Loading
+  16: projectile
+  17: Play
+  18: Exit
+  19: Proceed
+  20: Play_again
+
+# Total number of classes
+nc: 21
+
+# Dataset paths
+train: C:/Users/Figo/Desktop/BrawlStars/dataset/annotated_dataset/images/train
+val: C:/Users/Figo/Desktop/BrawlStars/dataset/annotated_dataset/images/val
